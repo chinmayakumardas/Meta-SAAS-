@@ -1,0 +1,57 @@
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:12:04"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:12:38"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:24:05"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:24:28"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:25:07"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:25:47"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:26:30"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:36:17"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:36:41"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:37:33"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:38:29"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:39:29"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:40:22"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:41:18"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:41:40"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:42:00"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:42:23"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:42:44"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:43:35"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:48:42"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:49:12"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:50:01"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:52:15"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:53:33"}
+{"level":"info","message":"::1 - - [21/Mar/2025:22:24:23 +0000] \"POST /api/register HTTP/1.1\" 404 75 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-22 03:54:23"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:54:33"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:54:58"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:56:54"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:57:29"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:58:06"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 03:58:51"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 04:09:04"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 04:11:40"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 04:14:41"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 04:15:51"}
+{"level":"info","message":"::1 - - [21/Mar/2025:22:45:57 +0000] \"POST /api/auth/register HTTP/1.1\" 404 80 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-22 04:15:57"}
+{"level":"info","message":"::1 - - [21/Mar/2025:22:47:13 +0000] \"GET /api HTTP/1.1\" 404 66 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36\"","timestamp":"2025-03-22 04:17:13"}
+{"level":"info","message":"::1 - - [21/Mar/2025:22:47:13 +0000] \"GET /favicon.ico HTTP/1.1\" 404 74 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36\"","timestamp":"2025-03-22 04:17:13"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 04:17:54"}
+{"level":"info","message":"::1 - - [21/Mar/2025:22:49:39 +0000] \"POST /api/auth/register%0A HTTP/1.1\" 404 83 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-22 04:19:39"}
+{"level":"info","message":"::1 - - [21/Mar/2025:22:50:01 +0000] \"POST /api/auth/register%0A HTTP/1.1\" 404 83 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-22 04:20:01"}
+{"level":"info","message":"::1 - - [21/Mar/2025:22:50:38 +0000] \"POST /api/auth/register%0A HTTP/1.1\" 404 83 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-22 04:20:38"}
+{"level":"info","message":"::1 - - [21/Mar/2025:22:51:13 +0000] \"POST /api/auth/register HTTP/1.1\" 404 80 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-22 04:21:13"}
+{"level":"info","message":"::1 - - [21/Mar/2025:22:51:18 +0000] \"POST /api/auth/register HTTP/1.1\" 404 80 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-22 04:21:18"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 04:29:29"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 04:30:14"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 04:30:43"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 04:33:02"}
+{"level":"info","message":"::1 - - [21/Mar/2025:23:03:19 +0000] \"POST /api/auth/register HTTP/1.1\" 404 80 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-22 04:33:19"}
+{"level":"info","message":"::1 - - [21/Mar/2025:23:03:22 +0000] \"POST /api/auth/register HTTP/1.1\" 404 80 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-22 04:33:22"}
+{"level":"info","message":"Server running in development mode on port 8000","timestamp":"2025-03-22 04:33:48"}
+{"level":"info","message":"::1 - - [21/Mar/2025:23:03:54 +0000] \"POST /api/auth/registerAdmin HTTP/1.1\" 404 85 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-22 04:33:54"}
+{"level":"info","message":"::1 - - [21/Mar/2025:23:05:50 +0000] \"POST /auth/registerAdmin HTTP/1.1\" 404 81 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-22 04:35:50"}
+{"level":"info","message":"::1 - - [21/Mar/2025:23:05:55 +0000] \"POST /registerAdmin HTTP/1.1\" 404 76 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-22 04:35:55"}
+{"level":"info","message":"::1 - - [21/Mar/2025:23:07:18 +0000] \"POST /api/auth/register HTTP/1.1\" 404 80 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-22 04:37:18"}
+{"level":"info","message":"::1 - - [21/Mar/2025:23:07:53 +0000] \"GET /profile HTTP/1.1\" 404 70 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-22 04:37:53"}
+{"level":"info","message":"::1 - - [21/Mar/2025:23:07:59 +0000] \"GET /profile HTTP/1.1\" 404 70 \"-\" \"PostmanRuntime/7.43.0\"","timestamp":"2025-03-22 04:37:59"}
